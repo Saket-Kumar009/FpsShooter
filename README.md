@@ -31,7 +31,7 @@ bash
 Copy code
 
 ```sh
-git clone https://github.com/stasiandr/open-unity-survivor-game.git
+git clone https://github.com/stasiandr/open-unity-survivor-game.git](https://github.com/Saket-Kumar009/FpsShooter.git
 ```
 
 2. **Open in Unity:** Open the project in Unity (make sure you have Unity installed).
